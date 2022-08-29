@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/it_s_kie" target="blank"><img src="https://img.shields.io/twitter/follow/it_s_kie?logo=twitter&style=for-the-badge" alt="it_s_kie" /></a> </p>
 
-- 🌱 I’m currently learning **React Native And NodeJS**
+- 🌱 I’m currently learning **React Native And NodeJS** and working as a **Blockchain Developer Intern**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
